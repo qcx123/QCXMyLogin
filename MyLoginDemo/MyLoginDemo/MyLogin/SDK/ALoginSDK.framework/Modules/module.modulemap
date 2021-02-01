@@ -1,0 +1,6 @@
+framework module ALoginSDK {
+  umbrella header "ALoginSDK.h"
+
+  export *
+  module * { export * }
+}

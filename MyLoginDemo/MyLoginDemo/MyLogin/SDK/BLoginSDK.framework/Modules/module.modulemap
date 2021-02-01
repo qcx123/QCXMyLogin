@@ -1,0 +1,6 @@
+framework module BLoginSDK {
+  umbrella header "BLoginSDK.h"
+
+  export *
+  module * { export * }
+}
